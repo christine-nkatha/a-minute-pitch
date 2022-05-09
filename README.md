@@ -20,11 +20,11 @@ again the upvotes and downvotes gets updated once a user clicks the button eithe
 probably it my give you an error if you dont have an account
 i may not see the email call once you create an account
 ## Technologies Used
- *PYTHON =FLASK
- *HTML=DESIGN
- *CSS=STYLING
- *JAVASCRIPT=USER INTERFACE
- *POWERSHELL
+* PYTHON =FLASK
+* HTML=DESIGN
+* CSS=STYLING
+* JAVASCRIPT=USER INTERFACE
+* POWERSHELL
  
 ## Support and contact details
 contact me on christinenkatha8@gmail.com
