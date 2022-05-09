@@ -25,6 +25,7 @@ i may not see the email call once you create an account
 * CSS=STYLING
 * JAVASCRIPT=USER INTERFACE
 * POWERSHELL
+* MAKO
  
 ## Support and contact details
 contact me on christinenkatha8@gmail.com
