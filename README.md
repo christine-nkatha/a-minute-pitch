@@ -1,9 +1,10 @@
 A MINUTE PITCH
 #### THIS APP CONTAIN PITCHS OF DIFERENT KINDS CREATED ON MAY,6TH 2022
-#### By **CHRISTINE
+#### AUTHOR
+* CHRISTINE MBURUGU NKATHA
          
 ## Description
-first,i have my own stated pitches of different kinds,a user can create account and vote for the best pitch they can as well create theirs aand its added on my data base i should get a notification from my email once a user signup.
+First,i have my own stated pitches of different kinds,a user can create account and vote for the best pitch they can as well create theirs aand its added on my data base i should get a notification from my email once a user signup.
 again the upvotes and downvotes gets updated once a user clicks the button eitherway.
 
 
@@ -26,6 +27,7 @@ i may not see the email call once you create an account
 * JAVASCRIPT=USER INTERFACE
 * POWERSHELL
 * MAKO
+* SQLALCHEMY
  
 ## Support and contact details
 contact me on christinenkatha8@gmail.com
