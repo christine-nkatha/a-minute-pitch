@@ -7,6 +7,9 @@ A MINUTE PITCH
 First,i have my own stated pitches of different kinds,a user can create account and vote for the best pitch they can as well create theirs aand its added on my data base i should get a notification from my email once a user signup.
 again the upvotes and downvotes gets updated once a user clicks the button eitherway.
 
+## live link
+* check my work  in here; 
+
 
 
 
@@ -30,7 +33,7 @@ i may not see the email call once you create an account
 * SQLALCHEMY
  
 ## Support and contact details
-contact me on christinenkatha8@gmail.com
+contact me on nkathachristine456@gmail.com
 ### License
 *{Determine the license under which this application can be used.  See below for more details on licensing.}*
 Copyright (c) {year} **{List of contributors or company name}**
