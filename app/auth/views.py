@@ -1,7 +1,7 @@
 from flask import render_template, request, redirect, url_for
 from flask_login import login_user, logout_user
 
-from app.auth import auth
+from ._init_ import auth
 from app.models import User
 from ..email import email_message
 
@@ -14,6 +14,7 @@ def login():
         password = form.get('password')
         print(username)
         user = User.query.filter_by(username=username).first()
+     
         if user is None:
             error = 'A user with that username  does not exist'
             return render_template('login.html', error=error)
