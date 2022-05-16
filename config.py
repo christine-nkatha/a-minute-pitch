@@ -3,7 +3,7 @@ import os
 import app
 
 
-app.config["SQLALCHEMY_DATABASE_URI"] = "postgresql://postgres:christine@localhost/5432/pitch"
+ #app.config["SQLALCHEMY_DATABASE_URI"] = "postgresql://postgres:christine@localhost/5432/pitch"
 
 
 class Config:
