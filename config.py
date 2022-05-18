@@ -3,13 +3,11 @@ import os
 import app
 
 
- #app.config["SQLALCHEMY_DATABASE_URI"] = "postgresql://postgres:christine@localhost/5432/pitch"
-
 
 class Config:
     debug = True
     SECRET_KEY = os.environ.get('SECRET_KEY')
-    SQLALCHEMY_DATABASE_URI = "postgresql://postgres:christine@localhost:5432/pitch"
+    SQLALCHEMY_DATABASE_URI = 'postgresql+psycopg2://christine:1234@localhost/pitch'
 
     #  email configurations
     MAIL_SERVER = 'smtp.gmail.com'

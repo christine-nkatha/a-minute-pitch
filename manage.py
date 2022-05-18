@@ -4,8 +4,7 @@ from app.models import User
 from flask_migrate import Migrate, MigrateCommand
 
 #Creating app instance
-app = create_app('production')
-app.config["SQLALCHEMY_DATABASE_URI"] = "postgresql://postgres:christine@localhost:5432/pitch"
+app = create_app('development')
 
 manager = Manager(app)
 manager.add_command('server',Server)
